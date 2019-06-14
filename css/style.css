@@ -24,6 +24,20 @@ body {
           text-align: center;
       }}
 
+.about-desc a {
+    color: #000000; 
+}
+.about-desc a:active {
+    color: #000000; 
+}
+.about-desc a:hover {
+    color: #000000; 
+}
+.about-desc a:after {
+    background-color: #000000; 
+}
+
+
 a {
   color: #2c98f0;
   -webkit-transition: 0.5s;
