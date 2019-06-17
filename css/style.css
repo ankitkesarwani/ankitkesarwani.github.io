@@ -37,6 +37,27 @@ body {
     background-color: #000000; 
 }
 
+.colorlib-contact .colorlib-narrow-content a {
+    color: #000000; 
+}
+.colorlib-contact .colorlib-narrow-content a:active {
+    color: #000000; 
+}
+.colorlib-contact .colorlib-narrow-content a:hover {
+    color: #000000; 
+}
+.colorlib-contact .colorlib-narrow-content a:after {
+    background-color: #000000; 
+}
+
+.colorlib-education .colorlib-narrow-content .project_span span {
+  -webkit-opacity: .4;
+  -moz-opacity: .4;
+  opacity: .4;
+  -ms-filter: alpha(opacity=40);
+  filter: alpha(opacity=40);
+  font-size: 16px; }
+
 
 a {
   color: #2c98f0;
@@ -834,7 +855,8 @@ margin-left: 10px;}
   .services.color-6 {
     border-bottom: 2px solid #4054b2; }
 	.services.color-black {
-    border-bottom: 2px solid #000000; }
+    border-bottom: 2px solid #000000;
+color: #000000;	}
 
 .services {
   margin-bottom: 80px;
