@@ -46,9 +46,39 @@ body {
 .colorlib-contact .colorlib-narrow-content a:hover {
     color: #000000; 
 }
-.colorlib-contact .colorlib-narrow-content a:after {
+.colorlib-contact .colorlib-narrow-content a:visited {
     background-color: #000000; 
+	color: #000000;
 }
+
+.project-details a {
+    color: #000000; 
+}
+.project-details a:active {
+    color: #000000; 
+}
+.project-details a:hover {
+    color: #000000; 
+}
+.project-details a:visited  {
+    background-color: #000000; 
+	color: #000000;
+}
+
+.ind a {
+    color: #000000; 
+}
+.ind a:active {
+    color: #000000; 
+}
+.ind a:hover {
+    color: #000000; 
+}
+.ind a:visited  {
+    background-color: #000000; 
+	color: #000000;
+}
+
 
 .colorlib-education .colorlib-narrow-content .project_span span {
   -webkit-opacity: .4;
@@ -60,12 +90,12 @@ body {
 
 
 a {
-  color: #2c98f0;
+  color: #000000;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #2c98f0;
+    color: #000000;
     outline: none;
     text-decoration: none !important; }
 
@@ -180,7 +210,7 @@ figure {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%;
-    border: 3px solid white;}
+    border: 1px solid black;}
 #colorlib-aside h1{
     color: #000;
   font-family: "Verdana", Times, sans-serif;
